@@ -1,7 +1,7 @@
 name: nicolas joseph
 favicon: null
-layout_spectrum: 0.860464398516342
-typography_spectrum: 0.40666418452747166
+layout_spectrum: 0.37465
+typography_spectrum: 0.39163
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.17441795230843127
-  lightness: 0.07003647740930319
-  saturation: 0.5713002120610327
-  rhythmicContrast: 0.1845653443597257
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.75
+  rhythmicContrast: 0
 purpose: []
