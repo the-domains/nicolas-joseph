@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[nicolas joseph]]></title>
+        <description><![CDATA[nicolas joseph]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 17:15:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Owasp France September 2014 meeting]]></title>
+            <description><![CDATA[<article><h1>Owasp France September 2014 meeting</h1><p>OWASP detail meeting</p></article>]]></description>
+            <link>undefinedowasp-france-september-2014-meeting/index.html</link>
+            <guid isPermaLink="false">0c49f33d-71ef-4b73-a97d-1d114cfcbdf3</guid>
+            <pubDate>Wed, 27 Jan 2016 17:14:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
