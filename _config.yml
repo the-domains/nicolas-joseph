@@ -1,19 +1,4 @@
-name: nicolas joseph
-favicon: null
-layout_spectrum: 0.37465
-typography_spectrum: 0.39163
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#17BEBB'
@@ -23,6 +8,11 @@ color:
     - '#FAD8D6'
   brandStrength: 1
   lightness: 1
-  saturation: 0.75
   rhythmicContrast: 0
+  saturation: 0.75
+cta: {}
+layout_spectrum: 0.37465
+name: nicolas joseph
+opengraph: {}
 purpose: []
+typography_spectrum: 0.810855
