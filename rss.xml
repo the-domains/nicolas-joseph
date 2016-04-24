@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[nicolas joseph]]></title>
-        <description><![CDATA[nicolas joseph]]></description>
+        <title><![CDATA[Nicolas Joseph's grid website]]></title>
+        <description><![CDATA[Nicolas Joseph's grid website]]></description>
         <link>https://thegrid.ai/nicolas-joseph/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 21:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 13:43:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nicolas-joseph/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Parallel prefix is a concept of the parallel and distributed computing world but can be seen, like most computer science concepts, as a real world process. To explain it, let’s go through an illustrated story.</p>]]></description>
+            <title><![CDATA[Parrellel prefix explained with pizzas]]></title>
+            <description><![CDATA[<article><h1>Parrellel prefix explained with pizzas</h1><p>Parallel prefix is a concept of the parallel and distributed computing world but can be seen, like most computer science concepts, as a real world process. To explain it, let’s go through an illustrated story.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed95ca872b682e962c055c9e4fc25efccb804569.png"></article>]]></description>
             <link>https://thegrid.ai/nicolas-joseph/parallel-prefix-is-a-concept-of-the-parallel-and-distributed/index.html</link>
             <guid isPermaLink="false">05d36a3d-8235-4fda-8179-e189e0e0bd9b</guid>
-            <pubDate>Mon, 28 Mar 2016 21:52:28 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2016 13:43:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SonarQube]]></title>
