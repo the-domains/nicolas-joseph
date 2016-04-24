@@ -4,7 +4,7 @@
         <description><![CDATA[Nicolas Joseph's grid website]]></description>
         <link>https://thegrid.ai/nicolas-joseph/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 13:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 13:44:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nicolas-joseph/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Parrellel prefix explained with pizzas]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/nicolas-joseph/parallel-prefix-is-a-concept-of-the-parallel-and-distributed/index.html</link>
             <guid isPermaLink="false">05d36a3d-8235-4fda-8179-e189e0e0bd9b</guid>
             <pubDate>Sun, 24 Apr 2016 13:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SonarQube]]></title>
-            <description><![CDATA[<article><h1>SonarQube</h1><p>On the 11 of September 2014 night was held the first owasp France meeting of the year.</p></article>]]></description>
-            <link>https://thegrid.ai/nicolas-joseph/owasp-france-september-2014-meeting/index.html</link>
-            <guid isPermaLink="false">0c49f33d-71ef-4b73-a97d-1d114cfcbdf3</guid>
-            <pubDate>Wed, 27 Jan 2016 17:14:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
