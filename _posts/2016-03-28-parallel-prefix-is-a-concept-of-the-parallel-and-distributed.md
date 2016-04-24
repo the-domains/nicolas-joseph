@@ -1,30 +1,27 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: "Parallel prefix\_is a concept of the parallel and distributed computing world but can be seen, like most computer science concepts, as a real world process. To explain it, let’s go through an illustrated story."
-datePublished: '2016-03-28T21:52:28.180Z'
-dateModified: '2016-03-28T21:52:15.143Z'
-title: ''
-author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-04-24T13:42:46.984Z'
+datePublished: '2016-04-24T13:43:03.140Z'
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+publisher: {}
+title: Parrellel prefix explained with pizzas
+description: 'Parallel prefix is a concept of the parallel and distributed computing world but can be seen, like most computer science concepts, as a real world process. To explain it, let’s go through an illustrated story.'
+author: []
+starred: true
 sourcePath: _posts/2016-03-28-parallel-prefix-is-a-concept-of-the-parallel-and-distributed.md
 published: true
 url: parallel-prefix-is-a-concept-of-the-parallel-and-distributed/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed95ca872b682e962c055c9e4fc25efccb804569.png)
+
 _Parallel prefix _is a concept of the parallel and distributed computing world but can be seen, like most computer science concepts, as a real world process. To explain it, let's go through an illustrated story.
 
-#### The Pizza Story
+The Pizza Story
 
 Giovani is a rising Italian Chef. As a marketing move, he decides to participate in a pizza competition. The competition is a bit special: you have to make the best pizza of them all, and you also have to make pizzas that represent all the steps of the cooking process. In other words, for a simple Margarita made with dough, tomato and mozzarella cheese, he has to make 3 pizzas:
 
@@ -47,13 +44,12 @@ After thinking hard about it, he is able to come up with a plan to make all the 
 For the competition, Giovani is going to make his speciality, a pizza with 8 ingredients.
 
 The plan as he imagined it is presented below:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3c04074-a7b7-462b-a0a3-7bbaf8046655.png)
 
 In each step, each cook combines ingredients that are handed over to him depending on the pattern defined in the above drawing.
 
 This is what _parallel prefix _is.
 
-#### The Computer Story
+The Computer Story
 
 So now you might wonder how that applies to computing.
 
